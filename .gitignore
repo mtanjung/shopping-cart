@@ -1,0 +1,4 @@
+/.vscode
+/data/mysql/*
+/logs/*
+.DS_Store
